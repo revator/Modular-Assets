@@ -9,20 +9,40 @@ ModelImporter:
     100002: Body.003
     100004: Pipe.003
     100006: //RootNode
+    100008: Big Pipe.006
+    100010: Body.006
+    100012: Pipe Clips.004
+    100014: Pipe.006
     400000: Big Pipe.003
     400002: Body.003
     400004: Pipe.003
     400006: //RootNode
+    400008: Big Pipe.006
+    400010: Body.006
+    400012: Pipe Clips.004
+    400014: Pipe.006
     2100000: No Name
     2300000: Big Pipe.003
     2300002: Body.003
     2300004: Pipe.003
+    2300006: Big Pipe.006
+    2300008: Body.006
+    2300010: Pipe Clips.004
+    2300012: Pipe.006
     3300000: Big Pipe.003
     3300002: Body.003
     3300004: Pipe.003
+    3300006: Big Pipe.006
+    3300008: Body.006
+    3300010: Pipe Clips.004
+    3300012: Pipe.006
     4300000: Big Pipe.003
     4300002: Body.003
     4300004: Pipe.003
+    4300006: Pipe Clips.004
+    4300008: Pipe.006
+    4300010: Big Pipe.006
+    4300012: Body.006
   externalObjects: {}
   materials:
     importMaterials: 1
